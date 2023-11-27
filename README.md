@@ -1,8 +1,6 @@
 # EmailXpress Advance Email Bulk Sender
 EmailXpress: Your Ultimate Bulk Email Solution
-![SingleMode]([https://www.dedseec.com/stenseet/2023/11/Email-Marketing-Tool-For-Free-1536x861.png))
-
-![MultiMode]([https://www.dedseec.com/stenseet/2023/11/Email-Marketing-Tool-For-Free-1536x861.png))
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 Are you in search of a versatile and feature-rich tool to supercharge your email marketing campaigns? Look no further! EmailXpress is an all-in-one bulk email sender software that empowers you with the tools to take your email marketing to the next level.
 
