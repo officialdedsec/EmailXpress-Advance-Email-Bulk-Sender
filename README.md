@@ -45,5 +45,5 @@ Elevate your email marketing strategy to new heights with EmailXpress. Whether y
 
 Discover the power of personalized and efficient email campaigns. Try EmailXpress today and watch your email marketing efforts yield exceptional results. Success is just an email away!
 
-**<font size="8">[Download Now](https://www.dedseec.com/product/emailxpress-advance-email-bulk-sender-software-free/)</font>**
+<span style="font-size:larger; font-weight:bold;">[Download Now](https://www.dedseec.com/product/emailxpress-advance-email-bulk-sender-software-free/)</span>
 
