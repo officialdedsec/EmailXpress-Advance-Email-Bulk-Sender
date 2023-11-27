@@ -1,6 +1,6 @@
 # EmailXpress Advance Email Bulk Sender
 EmailXpress: Your Ultimate Bulk Email Solution
-![SingleMode]([URL_of_image](https://www.dedseec.com/stenseet/2023/11/Email-Bulk-Sender-Tool.png))
+![SingleMode]([https://www.dedseec.com/stenseet/2023/11/Email-Marketing-Tool-For-Free-1536x861.png))
 
 ![MultiMode]([https://www.dedseec.com/stenseet/2023/11/Email-Marketing-Tool-For-Free-1536x861.png))
 
